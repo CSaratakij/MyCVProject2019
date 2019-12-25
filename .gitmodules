@@ -1,0 +1,9 @@
+[submodule "SimpleAR"]
+	path = SimpleAR
+	url = https://github.com/CSaratakij/SimpleAR
+[submodule "DoAsISaid"]
+	path = DoAsISaid
+	url = https://github.com/CSaratakij/DoAsISaid
+[submodule "CVTest"]
+	path = CVTest
+	url = https://github.com/CSaratakij/CVTest
